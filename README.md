@@ -80,7 +80,11 @@ Um Gelegenheitsfahrer in Abonnenten zu konvertieren, ergeben sich aus den Daten 
 
 
 
+Quellen:
 
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
+https://divvybikes.com/data-license-agreement
 
 
 
